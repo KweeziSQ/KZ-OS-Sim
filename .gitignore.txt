@@ -1,0 +1,12 @@
+env/
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+sim_os_state.pkl
+sim_os_config.json
+build/
+dist/
+.spec
+.vs/
